@@ -1,1 +1,2 @@
-alert('Hello world');
+confirm('Получилось?')
+alert('Конечно!');
